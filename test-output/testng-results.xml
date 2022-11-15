@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="210116" started-at="2022-11-14T11:56:42 IST" finished-at="2022-11-14T12:00:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="210116" started-at="2022-11-14T11:56:42 IST" finished-at="2022-11-14T12:00:12 IST">
+      <class name="RaiseIssue.NoInfoFlow">
+        <test-method status="PASS" signature="SignIn()[pri:1, instance:RaiseIssue.NoInfoFlow@8646db9]" name="SignIn" duration-ms="26387" started-at="2022-11-14T11:56:42 IST" finished-at="2022-11-14T11:57:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method status="PASS" signature="RaiseNewCase()[pri:2, instance:RaiseIssue.NoInfoFlow@8646db9]" name="RaiseNewCase" duration-ms="15878" started-at="2022-11-14T11:57:08 IST" finished-at="2022-11-14T11:57:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RaiseNewCase -->
+        <test-method status="PASS" signature="ReferenceData()[pri:3, instance:RaiseIssue.NoInfoFlow@8646db9]" name="ReferenceData" duration-ms="26540" started-at="2022-11-14T11:57:24 IST" finished-at="2022-11-14T11:57:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReferenceData -->
+        <test-method status="PASS" signature="SearchingCase()[pri:4, instance:RaiseIssue.NoInfoFlow@8646db9]" name="SearchingCase" duration-ms="10019" started-at="2022-11-14T11:57:51 IST" finished-at="2022-11-14T11:58:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchingCase -->
+        <test-method status="PASS" signature="Assign()[pri:5, instance:RaiseIssue.NoInfoFlow@8646db9]" name="Assign" duration-ms="23117" started-at="2022-11-14T11:58:01 IST" finished-at="2022-11-14T11:58:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assign -->
+        <test-method status="PASS" signature="Analysis()[pri:6, instance:RaiseIssue.NoInfoFlow@8646db9]" name="Analysis" duration-ms="12810" started-at="2022-11-14T11:58:24 IST" finished-at="2022-11-14T11:58:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Analysis -->
+        <test-method status="PASS" signature="ReAssigned()[pri:7, instance:RaiseIssue.NoInfoFlow@8646db9]" name="ReAssigned" duration-ms="18612" started-at="2022-11-14T11:58:37 IST" finished-at="2022-11-14T11:58:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReAssigned -->
+        <test-method status="PASS" signature="SearchingCaseAfterAssign()[pri:8, instance:RaiseIssue.NoInfoFlow@8646db9]" name="SearchingCaseAfterAssign" duration-ms="10596" started-at="2022-11-14T11:58:55 IST" finished-at="2022-11-14T11:59:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchingCaseAfterAssign -->
+        <test-method status="PASS" signature="ReAssign()[pri:9, instance:RaiseIssue.NoInfoFlow@8646db9]" name="ReAssign" duration-ms="22878" started-at="2022-11-14T11:59:06 IST" finished-at="2022-11-14T11:59:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReAssign -->
+        <test-method status="PASS" signature="AfterReassignAnalysis()[pri:10, instance:RaiseIssue.NoInfoFlow@8646db9]" name="AfterReassignAnalysis" duration-ms="14437" started-at="2022-11-14T11:59:29 IST" finished-at="2022-11-14T11:59:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterReassignAnalysis -->
+        <test-method status="PASS" signature="WorkingOnCaseAfterReAssign()[pri:11, instance:RaiseIssue.NoInfoFlow@8646db9]" name="WorkingOnCaseAfterReAssign" duration-ms="19193" started-at="2022-11-14T11:59:43 IST" finished-at="2022-11-14T12:00:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WorkingOnCaseAfterReAssign -->
+        <test-method status="PASS" signature="ReassignUserApproval()[pri:12, instance:RaiseIssue.NoInfoFlow@8646db9]" name="ReassignUserApproval" duration-ms="9518" started-at="2022-11-14T12:00:02 IST" finished-at="2022-11-14T12:00:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReassignUserApproval -->
+      </class> <!-- RaiseIssue.NoInfoFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
